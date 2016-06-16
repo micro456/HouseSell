@@ -25,7 +25,6 @@ import com.micro.service.HouseManager;
 import com.micro.service.UserManager;
 import com.micro.utils.Result;
 
-// 在这里修改了
 public abstract class BaseController {
 	
 	@Autowired
