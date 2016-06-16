@@ -19,7 +19,7 @@ import com.micro.entity.RegionExample;
 import com.micro.entity.User;
 import com.micro.service.HouseManager;
 import com.micro.utils.Result;
-
+// this is service
 @Service
 public class HouseManagerImpl extends BaseManager implements HouseManager {
 	
