@@ -1,5 +1,6 @@
 package com.micro.utils;
 
+// 这里是杭州市文一西路
 public class Result {
 	// 返回信息
 	private boolean success;
